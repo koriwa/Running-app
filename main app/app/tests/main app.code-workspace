@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../data base example code"
+		}
+	],
+	"settings": {
+		"[python]": {
+			"editor.defaultFormatter": "ms-python.autopep8"
+		},
+		"python.formatting.provider": "none"
+	}
+}
